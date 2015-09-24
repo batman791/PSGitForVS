@@ -21,5 +21,10 @@ namespace GitDemo
         {
             MessageBox.Show("I was clicked");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("This is Feature 1.1");
+        }
     }
 }
