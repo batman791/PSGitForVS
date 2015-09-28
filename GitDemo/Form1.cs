@@ -27,6 +27,11 @@ namespace GitDemo
             MessageBox.Show("This is Feature 1.1");
             //a change
             //change for feature1.11
+
+            //local changes
+
+            //some more local changes
+
         }
     }
 }
